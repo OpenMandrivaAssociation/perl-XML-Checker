@@ -15,7 +15,6 @@ BuildRequires:	perl-libxml-perl >= 0.07
 BuildArch:	noarch
 Provides:	perl-libxml-enno
 Obsoletes:	perl-libxml-enno
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 XML::Checker can be used in different ways to validate XML. See the
