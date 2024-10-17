@@ -6,7 +6,7 @@ Version:	0.13
 Release:	1
 License:	GPLv2+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{modname}
+Url:		https://search.cpan.org/dist/%{modname}
 Source0:	http://search.cpan.org/CPAN/authors/id/T/TJ/TJMATHER/%{modname}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRequires:	perl-devel
